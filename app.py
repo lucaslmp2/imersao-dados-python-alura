@@ -16,7 +16,7 @@ st.set_page_config(
 @st.cache_data
 def carregar_dados():
     """Carrega os dados de salários a partir de uma URL e os retorna como um DataFrame."""
-    df = pd.read_csv("https://raw.githubusercontent.com/vqrca/dashboard_salarios_dados/refs/heads/main/dados-imersao-final.csv")
+    df = pd.read_csv("https://raw.githubusercontent.com/lucaslmp2/imersao-dados-python-alura/refs/heads/main/Imers%C3%A3o-dados-final.csv")
     return df
 
 def carregar_estilos():
