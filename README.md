@@ -5,7 +5,7 @@ Este projeto é um dashboard interativo desenvolvido com Streamlit para a análi
 O dashboard foi criado como parte da **Imersão de Dados da Alura**.
 
  
-*[Dash.png](https://github.com/lucaslmp2/imersao-dados-python-alura/blob/main/Dash.png)*
+*(https://github.com/lucaslmp2/imersao-dados-python-alura/blob/main/Dash.png)*
 
 ---
 
