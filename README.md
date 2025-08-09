@@ -85,3 +85,9 @@ A aplicação será aberta automaticamente em seu navegador padrão.
 ## 📄 Fonte dos Dados
 
 Os dados utilizados neste projeto foram obtidos a partir do arquivo `imersao-dados-final.csv`, disponibilizado no repositório lucaslmp2/imersao-dados-python-alura. O dashboard carrega os dados diretamente da URL do arquivo bruto no GitHub.
+
+## 🛜 Hospedado em Streamlit.app
+
+O projeto foi hospedado em [Streamlit](https://imersao-de-dados-python-2025-lucas.streamlit.app/)
+
+---
